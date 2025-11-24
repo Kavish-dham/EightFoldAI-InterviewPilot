@@ -14,7 +14,7 @@ An intelligent, interactive mock interview platform that simulates a real human 
 ![alt text](UseCaseDiagram.png)
 
 ## Architecture
-
+![alt text](HLD.png)
 The application follows **Client-Server architecture**:
 
 ### Backend (FastAPI)
