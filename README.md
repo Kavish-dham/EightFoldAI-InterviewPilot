@@ -73,7 +73,7 @@ The backend is built with **FastAPI** for high performance and easy asynchronous
 4.  **Set up Environment Variables:**
     Create a `.env` file in the root directory and add your Google Gemini API key:
     ```env
-    GEMINI_API_KEY=your_gemini_api_key_here
+    GEMINI_API_KEY=AIzaSyDCMSH45OJaiBRLwBflhupO3qefV79FS4U
     ```
 
 ## Running the Application
