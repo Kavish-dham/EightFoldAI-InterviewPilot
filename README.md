@@ -56,7 +56,7 @@ The backend is built with **FastAPI** for high performance and easy asynchronous
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/Kavish-dham/EightFoldAI-InterviewPilot)
     cd kd-eightfold-master
     ```
 
