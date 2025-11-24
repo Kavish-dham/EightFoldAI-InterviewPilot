@@ -56,8 +56,9 @@ The backend is built with **FastAPI** for high performance and easy asynchronous
 
 1.  **Clone the repository:**
     ```bash
-    git clone [<repository-url>](https://github.com/Kavish-dham/EightFoldAI-InterviewPilot)
-    cd kd-eightfold-master
+    git clone https://github.com/Kavish-dham/EightFoldAI-InterviewPilot.git
+    cd EightFoldAI-InterviewPilot
+
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -74,7 +75,7 @@ The backend is built with **FastAPI** for high performance and easy asynchronous
 4.  **Set up Environment Variables:**
     Create a `.env` file in the root directory and add your Google Gemini API key:
     ```env
-    GEMINI_API_KEY=AIzaSyDCMSH45OJaiBRLwBflhupO3qefV79FS4U
+    GEMINI_API_KEY=YOUR_GEMINI_API_KEY
     ```
 
 ## Running the Application
